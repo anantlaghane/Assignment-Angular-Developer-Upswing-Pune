@@ -12,9 +12,14 @@
 - Designed the app to be mobile-first using Ionic components.
 
 
+ ## Download projoct
+- open terminal #npm install (install node module).
+- ionic serve (start project).
+
+
 
   
-- user login Details
+## user login Details
 - login usename - admin
 - login password- admin
 
