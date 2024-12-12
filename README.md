@@ -11,5 +11,12 @@
 - Implemented Signal State for localized UI state for better performance.
 - Designed the app to be mobile-first using Ionic components.
 
-login usename - admin
-login password- admin
+
+
+  
+- user login Details
+- login usename - admin
+- login password- admin
+
+  
+
